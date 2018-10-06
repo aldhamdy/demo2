@@ -1,0 +1,30 @@
+[
+  {
+    "mapCode": 1001,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 1
+  }
+  , {
+    "mapCode": 1002,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 2
+  },
+   {
+    "mapCode": 1003,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 1
+  },
+   {
+    "mapCode": 1004,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 3
+  }
+]
