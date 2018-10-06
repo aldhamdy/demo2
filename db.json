@@ -1,4 +1,4 @@
-{"maps" :[
+{"maps" :{"respCode":0,"respMsg":null,"respData":[
   {
     "mapCode": 1001,
     "mapName": "صلاح عبدالله الضمدي",
@@ -27,5 +27,5 @@
     "mapDate": "2018-01-09T15:03:00",
     "mapStatus": 3
   }
-]
+]}
 }
